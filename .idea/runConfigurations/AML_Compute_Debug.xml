@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="AML Compute Debug" type="CompoundRunConfigurationType">
+    <toRun name="Submit Train.py to AML Compute" type="PythonConfigurationType" />
+    <toRun name="Start Debug Listener" type="PyRemoteDebugConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
