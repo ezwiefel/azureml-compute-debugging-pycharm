@@ -1,0 +1,4 @@
+azure-cli-core==2.0.71
+azureml-sdk==1.0.57
+Click==7.0
+requests==2.22.0
